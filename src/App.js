@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import StoreTable from './StoreTable';
 import AddStoreModal from './AddStoreModal';
 
+console.log("here")
 const App = () => {
   const initialStores = [
     { name: 'Shop 1', openingTime: '09:00', distance: '5 km', paymentMethod: 'Cart' },
