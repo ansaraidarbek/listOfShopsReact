@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//ansaraidarbek.github.io/listOfShops/static/css/main.f7a1737f.css",
+    "main.js": "//ansaraidarbek.github.io/listOfShops/static/js/main.a73cfe9a.js",
+    "index.html": "//ansaraidarbek.github.io/listOfShops/index.html",
+    "main.f7a1737f.css.map": "//ansaraidarbek.github.io/listOfShops/static/css/main.f7a1737f.css.map",
+    "main.a73cfe9a.js.map": "//ansaraidarbek.github.io/listOfShops/static/js/main.a73cfe9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a1737f.css",
+    "static/js/main.a73cfe9a.js"
+  ]
+}
